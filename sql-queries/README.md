@@ -1,0 +1,3 @@
+# SQL Section
+#### The SQL stage of this project was where I took the raw data, put it into MySQL (Workbench), and fixed many issues, including missing values, errors, redundant columns, and much more. I also created several calculated columns for my own analysis. I then took the cleaned data, and did a collection of analytical queries for exploratory analysis. After this, I moved the cleaned table to Tableau to create graphs and a collective interactive dashboard that displays a mixture of Beatle stats. 
+#### The comments within the SQL file go more into detail about WHY I did what I did and HOW I decided to do it. 
