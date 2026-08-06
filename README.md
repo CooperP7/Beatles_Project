@@ -97,6 +97,7 @@ it is subjective. 3. There is a mythology to the Lennon-McCartney partnership (t
 │   ├── beatle_dash_screenshot.png   # Screenshot of the final dashboard
 │   ├── README.md                    # Link to the interactive Tableau dashboard and more info
 │   ├── Tableau_Embed_Code           # The Tableau embed code to open the dash in an external webpage
+│   ├── BeatleProj.twb               # The full Tableau workbook
 │
 │
 │
