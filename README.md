@@ -38,7 +38,7 @@ many things that we take for granted in music. The band made pop music into an a
 
 First, I searched for a free dataset on Kaggle that I could clean and use for EDA. I found several, but I landed on one that provided many interesting metrics as well as opportunities for cleaning.
 
-I based the exploration around the question, what tangible statistics live under the magic of the Beatles discography? Here is the final dashboard I ended up with.
+I based the exploration around the question, what tangible statistics live under the magic of the Beatles discography? Here is the final dashboard I ended up with. NOTE: It works best with the largest screen possible! Please use the full screen format for everything to look as informative as possible. 
 [`Final Dashboard`](https://public.tableau.com/views/BeatleProj/BeatlesDeepDive?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 But how did I get here?
